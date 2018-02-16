@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/DevLog"
+baseurl: ""
 url: "https://produck.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
