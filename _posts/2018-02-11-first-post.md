@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Frist Post"
+title:  "First Post"
 date:   2018-02-11 01:44:12 +0900
 categories: jekyll update
 ---
