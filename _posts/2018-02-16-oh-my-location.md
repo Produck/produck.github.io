@@ -25,3 +25,17 @@ This means an alert for some area. Users set some areas and a precious person an
 
 * A user who allow to notify his location can see how many one is watching his location in system notification.
 
+# Screenshots
+This is some wireframes.
+
+![Login View]({{"/assets/img/oh-my-location/Login.png" | absolute_url}}){: .rounded .mx-auto .d-block}
+
+Users will be saw this page at the first time.(Login)
+
+![Main View]({{"/assets/img/oh-my-location/Main.png" | absolute_url}}){: .text-center}
+
+If successfuly logined, this view is shown.
+
+![Add User View]({{"/assets/img/oh-my-location/Add_User.png" | absolute_url}})
+
+And users can found family, friends or lover.
