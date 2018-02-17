@@ -1,7 +1,7 @@
 ---
 layout: post
 title: oh-my-location
-tags: [Android, GPS, Location Based Service]
+tags: [oh-my-location, Android, GPS, Location Based Service]
 ---
 I am going to develop a Location Based Service. This give a service which share current location within users. So someone uses this for checking one's children or checking friends locations. I don't think something special. Just only sharing locations. The usages will be found by users. For this reason, we have to provide easy way to join our service. 
 
@@ -24,6 +24,10 @@ This means an alert for some area. Users set some areas and a precious person an
 3. They also can be notified an alarm when someone who allow to notify there location come in/out specific area.
 
 * A user who allow to notify his location can see how many one is watching his location in system notification.
+
+# Profitability
+
+I will give current location and range notification service for free. But histories by a day is charged. In other words, this app show one's route within a hour. If users want to see whole of today or a route of a specific day, users sholud pay. 3 dollars per a day. Purchased day has no limitation for usages. oh-my-location serve powerful current location trace but if users want to see previous days, should pay a lot. And monthly subscription for one is only 30 dollars. If you subcribe, from the day you subscribed auto saved one's moving route.
 
 # Screenshots
 This is some wireframes.
